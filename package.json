@@ -44,9 +44,7 @@
     "node": ">=12"
   },
   "lint-staged": {
-    "*.js": [
-      "eslint --fix"
-    ]
+    "*.js": []
   },
   "author": "binaryify",
   "license": "MIT",
